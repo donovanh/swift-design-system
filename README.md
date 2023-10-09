@@ -2,8 +2,6 @@
 
 Example code as shown [in this talk](https://www.youtube.com/watch?v=Z7rJKr6Jlho) from Daniel Tull.
 
-<iframe width="1206" height="678" src="https://www.youtube.com/embed/Z7rJKr6Jlho" title="Creating a Design System with SwiftUI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 [![Watch the video](https://img.youtube.com/vi/Z7rJKr6Jlho/hqdefault.jpg)](https://www.youtube.com/embed/Z7rJKr6Jlho)
 
 Example output:
